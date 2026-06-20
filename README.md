@@ -1,1 +1,0 @@
-# Fase 1\nProyecto base Next.js para Vercel.
