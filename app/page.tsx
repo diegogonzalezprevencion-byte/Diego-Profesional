@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>Diego Profesional</h1><p>Fase 1 operativa.</p></main>}
