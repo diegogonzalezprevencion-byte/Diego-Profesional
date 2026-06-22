@@ -1,0 +1,2 @@
+Archivos que aún mencionan masoterapia (idealmente ninguno):
+app/newsletter/page.tsx

@@ -1,0 +1,9 @@
+{
+  "name": "Diego Prevención",
+  "short_name": "DiegoPrev",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#0f766e",
+  "lang": "es-CL"
+}
