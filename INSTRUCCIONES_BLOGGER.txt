@@ -1,0 +1,11 @@
+Para Blogger:
+
+Esta versión está pensada principalmente para GitHub + Vercel. Si deseas usarla en Blogger, lo más recomendable es:
+
+1. Subir la imagen `assets/images/diego-gonzalez-prevencion-riesgos.jpg` a Blogger o a un hosting de imágenes.
+2. Copiar el contenido de `index.html` dentro de una página HTML.
+3. Copiar el contenido de `styles.css` dentro del apartado de CSS personalizado del tema, o dentro de una etiqueta <style>.
+4. Copiar el contenido de `script.js` antes del cierre del contenido, dentro de una etiqueta <script>.
+5. Reemplazar las rutas de imágenes por la URL pública de la imagen subida.
+
+Si Blogger limita el ancho de la página, conviene usar un tema simple o una plantilla personalizada.
