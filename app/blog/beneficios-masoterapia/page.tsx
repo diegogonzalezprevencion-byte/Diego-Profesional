@@ -1,0 +1,3 @@
+import Link from "next/link";
+export const metadata={title:"Beneficios de la masoterapia profesional",description:"Artículo profesional de Diego Profesional."};
+export default function Page(){return <main><section className="section"><div className="container"><Link className="badge" href="/blog">← Volver al blog</Link><h1>Beneficios de la masoterapia profesional</h1><div className="card"><p>La masoterapia puede apoyar la relajación, la descarga muscular y el bienestar corporal. No reemplaza una atención médica, pero puede ser una herramienta de autocuidado.</p><p>Este contenido es informativo y puede ser complementado con una asesoría personalizada según el caso.</p><Link className="btn" href="/contacto">Solicitar orientación</Link></div></div></section></main>}
